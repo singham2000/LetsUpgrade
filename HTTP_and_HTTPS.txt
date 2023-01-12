@@ -1,0 +1,11 @@
+What is HTTP?
+An HTTP stands for Hypertext Transfer Protocol. The HTTP protocol provides communication between different communication systems. When the user makes an HTTP request on the browser, then the webserver sends the requested data to the user in the form of web pages. In short, we can say that the HTTP protocol allows us to transfer the data from the server to the client.
+
+An HTTP is an application layer protocol that comes above the TCP layer. It has provided some standard rules to the web browsers and servers, which they can use to communicate with each other.
+
+An HTTP is a stateless protocol as each transaction is executed separately without having any knowledge of the previous transactions, which means that once the transaction is completed between the web browser and the server, the connection gets lost.
+
+----------------------------------------------------------------
+
+What is HTTPS?
+The full form of HTTPS is Hypertext Transfer Protocol Secure. The HTTP protocol does not provide the security of the data, while HTTP ensures the security of the data. Therefore, we can say that HTTPS is a secure version of the HTTP protocol. This protocol allows transferring the data in an encrypted form. The use of HTTPS protocol is mainly required where we need to enter the bank account details. The HTTPS protocol is mainly used where we require to enter the login credentials. In modern browsers such as chrome, both the protocols, i.e., HTTP and HTTPS, are marked differently. To provide encryption, HTTPS uses an encryption protocol known as Transport Layer Security, and officially, it is referred to as a Secure Sockets Layer (SSL).
